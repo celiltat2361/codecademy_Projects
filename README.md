@@ -1,1 +1,1 @@
-# codecademy_Projects-MagicEightBall
+# codecademy_Projects
