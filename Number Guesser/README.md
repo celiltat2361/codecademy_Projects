@@ -1,6 +1,7 @@
 JAVASCRIPT SYNTAX, PART I
 Number Guesser
 Overview
+
 This project is slightly different than others you have encountered thus far on Codecademy. 
 Instead of a step-by-step tutorial, this project contains a series of open-ended requirements 
 which describe the project you’ll be building. There are many possible ways to correctly fulfill 
